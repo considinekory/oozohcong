@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eisahxeinu.iscor.me/sitemap.xml
